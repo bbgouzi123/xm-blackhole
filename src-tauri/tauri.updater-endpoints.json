@@ -1,9 +1,0 @@
-{
-  "plugins": {
-    "updater": {
-      "endpoints": [
-        "https://xmcore.top/api/xm-store/api/v1/updater/xm-blackhole/{{target}}/{{current_version}}"
-      ]
-    }
-  }
-}
